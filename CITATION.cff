@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the independent manuscript using the preferred citation below."
+title: "Measuring AI Performance and Selecting Models Under Quality and Cost Constraints: Framework Proposal and Empirical Case Studies"
+version: "1.0.0"
+authors:
+  - family-names: "Pimpa"
+    given-names: "Pacharapol"
+    affiliation: "Software Engineering bachelor’s student, Thammasat University"
+preferred-citation:
+  type: unpublished
+  title: "Measuring AI Performance and Selecting Models Under Quality and Cost Constraints: Framework Proposal and Empirical Case Studies"
+  authors:
+    - family-names: "Pimpa"
+      given-names: "Pacharapol"
+  year: 2026
+  version: "1.0.0"
+  notes: "Independent Research Manuscript — Not Peer Reviewed. Framework proposal with completed supporting empirical case studies."
