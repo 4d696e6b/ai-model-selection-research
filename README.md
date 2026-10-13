@@ -6,6 +6,12 @@ Pacharapol Pimpa · Software Engineering bachelor’s student, Thammasat Univers
 
 [Read the manuscript PDF](paper/manuscript-v1.0.0.pdf) · [Citation](CITATION.cff)
 
+## Equation explanations and worked calculations
+
+A separate **version 1.0.0 instructional companion** is now available: [AI Evaluation and Model Selection Equations — Explanations](guide/README.md). [Read its 22-page PDF](guide/ai-evaluation-equations-v1.0.0.pdf) or download the [editable Word document](guide/ai-evaluation-equations-v1.0.0.docx).
+
+The guide explains variables, mathematical workings and the complete selection workflow. Its teaching examples are explicitly constructed; it reports no new model experiments or measured cost savings. The original research manuscript and its evidence remain unchanged.
+
 ## Overview and motivation
 
 Choosing a model means deciding whether its task quality, latency, resource use and total cost meet a particular deployment need. A high benchmark score alone cannot answer that question. This project specifies a transparent task-conditioned selection framework and preserves two completed empirical case studies of an earlier weighted-selection approach.
@@ -61,7 +67,7 @@ The warm CPU-dollar proxy excludes substantial operational costs and is not bill
 
 ## Repository contents and reproduction status
 
-This repository contains the final manuscript PDF, an overview and citation information. Historical code, datasets, case-level predictions, fitted models, complete cloud logs and aggregate report files are not bundled here.
+This repository contains the final manuscript PDF, an equation-use companion in PDF and editable Word form, an overview and citation information. Historical code, datasets, case-level predictions, fitted models, complete cloud logs and aggregate report files are not bundled here.
 
 **Internally repeated; not independently reproducible with the materials published in this repository.** The manuscript documents the dataset sources, splits, model settings, statistical procedures, environment and cloud job lineage. Independent reproduction requires additional original artifacts or an explicitly documented reconstruction. Same-author refits and automated consistency checks do not constitute independent academic validation. No new ML experiments were run for this manuscript release.
 
